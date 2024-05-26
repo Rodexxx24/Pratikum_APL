@@ -447,7 +447,7 @@ void papan_skor() {
 void menu_utama() {
     system("cls");
     string pilihan;
-    cout << "=== Selamat Datang di Kuis Edukasi ===\n"
+    cout << "=== Selamat Datang di Kuisisendiri ===\n"
          << "1) Admin\n"
          << "2) Pemain\n"
          << "3) Tentang\n"
